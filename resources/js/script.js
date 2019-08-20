@@ -32,7 +32,6 @@ $(document).ready(function($) {
             $(this).removeClass('active');
             toggleMenu.removeClass('active');
 
-
         }
     });
 });
